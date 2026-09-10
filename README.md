@@ -28,15 +28,18 @@
 
 ## ⚡ About me
 
+<table>
+<tr>
+<td width="38%" valign="middle" align="center">
+<img src="./assets/coding-illustration.svg" alt="Illustration of Swagati coding at a laptop" width="100%"/>
+</td>
+<td width="62%" valign="middle">
+
 I'm an **AI/ML and Data enthusiast** focused on building practical, data-driven applications with Python.
 
 **My workflow:**
 
-<div align="center">
-
 `Data` → `Clean` → `Explore` → `Model` → `Evaluate` → `Visualize` → `Deploy`
-
-</div>
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🐍 Python development
@@ -44,6 +47,10 @@ I'm an **AI/ML and Data enthusiast** focused on building practical, data-driven 
 - 📊 Data Analytics & Visualization
 - 🧠 Generative AI
 - 🚀 Streamlit-based ML applications
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -134,7 +141,7 @@ Data cleaning, exploratory analysis, visualization, and dashboard-oriented proje
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatipachare&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=swagatipachare&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
