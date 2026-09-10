@@ -4,24 +4,39 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI%2FML+Engineer;Turning+raw+data+into+real+insights;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Currently+exploring+Generative+AI" alt="Typing SVG"/>
+
+<br/><br/>
+
 <a href="https://github.com/swagatipachare">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/swagati-pachare-9ba673331">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:swagatipachare123@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=swagatipachare&style=for-the-badge&color=7c5cff&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## ⚡ About Me
+## ⚡ About me
 
 I'm an **AI/ML and Data enthusiast** focused on building practical, data-driven applications with Python.
 
-My workflow:
+**My workflow:**
 
-**Data → Clean → Explore → Model → Evaluate → Visualize → Deploy**
+<div align="center">
+
+`Data` → `Clean` → `Explore` → `Model` → `Evaluate` → `Visualize` → `Deploy`
+
+</div>
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🐍 Python development
@@ -30,113 +45,160 @@ My workflow:
 - 🧠 Generative AI
 - 🚀 Streamlit-based ML applications
 
----
+<br/>
 
-## 🧩 Tech Stack
+## 🧩 Tech stack
 
-| Area | Technologies |
-|---|---|
-| **Programming** | Python, SQL |
-| **Data** | Pandas, NumPy |
-| **Machine Learning** | Scikit-learn, TensorFlow |
-| **Computer Vision** | OpenCV, YOLO |
-| **Visualization** | Matplotlib, Seaborn, Power BI, Tableau |
-| **Deployment** | Streamlit |
-| **Tools** | Git, GitHub, Jupyter, VS Code |
+**Programming & Data**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-# 🚀 Featured Work
+**Machine learning & computer vision**
 
-### 📜 Sanskrit Manuscript Classification
-Computer-vision project focused on multi-class manuscript image detection/classification.
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white)
 
-**Python • YOLO • Computer Vision**
+**Visualization & BI**
 
-### 👁️ Computer Vision Projects
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C7FB8?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Deployment & tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<br/>
+
+## 🚀 Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 Sanskrit manuscript classification
+Computer-vision project focused on multi-class manuscript image detection and classification.
+
+`Python` `YOLO` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer vision projects
 Image detection and classification workflows using modern computer-vision techniques.
 
-**Python • OpenCV • YOLO**
+`Python` `OpenCV` `YOLO`
 
-### 📊 Machine Learning Projects
-End-to-end predictive modeling including preprocessing, EDA, training, evaluation and deployment.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Python • Pandas • NumPy • Scikit-learn**
+### 📊 Machine learning projects
+End-to-end predictive modeling — preprocessing, EDA, training, evaluation, and deployment.
 
-### 📈 Data Analytics
-Data cleaning, exploratory analysis, visualization and dashboard-oriented projects.
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
-**Python • SQL • Power BI • Tableau**
+</td>
+<td width="50%" valign="top">
 
----
+### 📈 Data analytics
+Data cleaning, exploratory analysis, visualization, and dashboard-oriented projects.
 
-## 📊 GitHub Analytics
+`Python` `SQL` `Power BI` `Tableau`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swagatipachare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=swagatipachare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatipachare&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
-<br>
-
-## 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=swagatipachare&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatipachare&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+## 🏆 GitHub trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://github-profile-trophy.vercel.app/?username=swagatipachare&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
----
+<br/>
 
-## 🌱 Currently Exploring
+## 🐍 Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+<br/>
+
+## 🌱 Currently exploring
 
 ```text
 Generative AI
      │
      ├── Large Language Models
-     │
      ├── AI Applications
-     │
      ├── Advanced Machine Learning
-     │
      └── Computer Vision
 ```
 
----
+<br/>
 
-## 🎯 Career Focus
+## 🎯 Career focus
 
 I'm interested in opportunities involving:
 
-**AI/ML · Python · Data Analytics · Computer Vision · Generative AI**
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-7c5cff?style=flat-square)
+![Python](https://img.shields.io/badge/Python-22d3ee?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-f472b6?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-fbbf24?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-34e39a?style=flat-square)
+
+</div>
 
 I enjoy solving real-world problems, learning new technologies, and turning ideas into working applications.
 
----
+<br/>
 
-## 🤝 Let's Connect
+## 🤝 Let's connect
 
 <div align="center">
 
 <a href="https://github.com/swagatipachare">
 <img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/swagati-pachare-9ba673331">
 <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
