@@ -133,8 +133,8 @@ Data cleaning, exploratory analysis, visualization, and dashboard-oriented proje
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swagatipachare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatipachare&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-beta-black-39.vercel.app/api?username=swagatipachare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="180"/>
+<img src="https://github-readme-stats-beta-black-39.vercel.app/api/top-langs/?username=swagatipachare&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
