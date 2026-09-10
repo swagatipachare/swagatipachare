@@ -150,7 +150,7 @@ Data cleaning, exploratory analysis, visualization, and dashboard-oriented proje
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=swagatipachare&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy-alpha-rose.vercel.app/?username=swagatipachare&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
