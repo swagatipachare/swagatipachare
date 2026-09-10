@@ -146,14 +146,6 @@ Data cleaning, exploratory analysis, visualization, and dashboard-oriented proje
 
 <br/>
 
-## 🏆 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-alpha-rose.vercel.app/?username=swagatipachare&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
-
-</div>
-
 <br/>
 
 ## 🐍 Contribution snake
