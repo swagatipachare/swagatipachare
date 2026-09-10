@@ -24,33 +24,28 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c5cff,50:22d3ee,100:f472b6&height=4&section=header" width="100%"/>
 
 ## ⚡ About me
 
-<table>
-<tr>
-<td width="38%" valign="middle" align="center">
-<img src="./assets/coding-illustration.svg" alt="Illustration of Swagati coding at a laptop" width="100%"/>
-</td>
-<td width="62%" valign="middle">
+<div align="center">
 
 I'm an **AI/ML and Data enthusiast** focused on building practical, data-driven applications with Python.
 
-**My workflow:**
+**My workflow**
 
 `Data` → `Clean` → `Explore` → `Model` → `Evaluate` → `Visualize` → `Deploy`
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python development
-- 👁️ Computer Vision & Deep Learning
-- 📊 Data Analytics & Visualization
-- 🧠 Generative AI
-- 🚀 Streamlit-based ML applications
+<br/>
 
-</td>
-</tr>
-</table>
+![AI & ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7c5cff?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python%20Development-22d3ee?style=for-the-badge&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision%20%26%20Deep%20Learning-f472b6?style=for-the-badge)
+![Data Viz](https://img.shields.io/badge/Data%20Analytics%20%26%20Visualization-fbbf24?style=for-the-badge&logoColor=black)
+![GenAI](https://img.shields.io/badge/Generative%20AI-34e39a?style=for-the-badge&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit%20ML%20Apps-a78bfa?style=for-the-badge)
+
+</div>
 
 <br/>
 
@@ -86,6 +81,8 @@ I'm an **AI/ML and Data enthusiast** focused on building practical, data-driven 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:7c5cff,100:f472b6&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured work
 
@@ -129,6 +126,8 @@ Data cleaning, exploratory analysis, visualization, and dashboard-oriented proje
 </table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:7c5cff,100:22d3ee&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub analytics
 
