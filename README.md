@@ -70,16 +70,35 @@ Data cleaning, exploratory analysis, visualization and dashboard-oriented projec
 
 ---
 
-## 📊 GitHub Activity
-
-> GitHub's contribution graph below is live and maintained by GitHub itself.
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatipachare&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swagatipachare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatipachare&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
+<br>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=swagatipachare&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
 ---
 
 ## 🐍 Contribution Snake
