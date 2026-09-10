@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=swagatipachare&style=for-the-badge&color=7c5cff&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=swagatipachare.swagatipachare&title=PROFILE+VIEWS&color=7c5cff&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
