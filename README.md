@@ -99,15 +99,6 @@ Data cleaning, exploratory analysis, visualization and dashboard-oriented projec
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
 
 ---
 
