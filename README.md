@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,50:22d3ee,100:f472b6&height=180&section=header&text=Swagati%20Pachare&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%2FML%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header"/>
+
 <img src="./assets/ai-dashboard.svg" alt="Swagati Pachare AI ML portfolio dashboard"/>
 
 <br/>
@@ -98,28 +100,38 @@ Computer-vision project focused on multi-class manuscript image detection and cl
 </td>
 <td width="50%" valign="top">
 
-### 👁️ Computer vision projects
-Image detection and classification workflows using modern computer-vision techniques.
+### 🕳️ Pothole detection system
+Drone-based pothole detection with YOLOv8, a Flask and MySQL backend, and live map sync using Leaflet.
 
-`Python` `OpenCV` `YOLO`
+`YOLOv8` `Flask` `MySQL` `Leaflet`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Machine learning projects
-End-to-end predictive modeling — preprocessing, EDA, training, evaluation, and deployment.
+### 🔣 Symbol2Text
+AI-powered symbol detection and translation system that converts detected symbols into readable text.
 
-`Python` `Pandas` `NumPy` `Scikit-learn`
+`Python` `Deep Learning` `Computer Vision`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Data analytics
+### 📈 Data analytics & dashboards
 Data cleaning, exploratory analysis, visualization, and dashboard-oriented projects.
 
 `Python` `SQL` `Power BI` `Tableau`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📊 Machine learning projects
+End-to-end predictive modeling — preprocessing, EDA, training, evaluation, and deployment.
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
 </td>
 </tr>
@@ -133,18 +145,26 @@ Data cleaning, exploratory analysis, visualization, and dashboard-oriented proje
 
 <div align="center">
 
-<img src="https://github-readme-stats-beta-black-39.vercel.app/api?username=swagatipachare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="180"/>
-<img src="https://github-readme-stats-beta-black-39.vercel.app/api/top-langs/?username=swagatipachare&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatipachare&theme=tokyonight" alt="Profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swagatipachare&theme=tokyonight" alt="Repos per language" width="49%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=swagatipachare&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatipachare&theme=tokyonight" alt="Most used languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swagatipachare&theme=tokyonight" alt="GitHub stats" width="49%"/>
 
 <br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatipachare&bg_color=0d1117&color=a78bfa&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="98%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=swagatipachare&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/swagatipachare?style=for-the-badge&logo=github&color=7c5cff&labelColor=181717" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/swagatipachare/swagatipachare?style=for-the-badge&color=22d3ee&labelColor=181717" alt="Last commit"/>
+
+</div>
 
 <br/>
 
@@ -205,5 +225,7 @@ I enjoy solving real-world problems, learning new technologies, and turning idea
 ### ⭐ Thanks for visiting!
 
 **Build • Learn • Deploy • Repeat 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:22d3ee,100:7c5cff&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
