@@ -153,10 +153,6 @@ End-to-end predictive modeling — preprocessing, EDA, training, evaluation, and
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatipachare&bg_color=0d1117&color=a78bfa&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true&height=220&custom_title=Contribution%20Activity" alt="Contribution graph" width="85%"/>
-
-<br/><br/>
-
 <img src="https://img.shields.io/github/followers/swagatipachare?style=flat-square&logo=github&color=7c5cff&labelColor=181717" alt="Followers"/>
 <img src="https://img.shields.io/github/last-commit/swagatipachare/swagatipachare?style=flat-square&color=22d3ee&labelColor=181717" alt="Last commit"/>
 
