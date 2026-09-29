@@ -1,8 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,50:22d3ee,100:f472b6&height=180&section=header&text=Swagati%20Pachare&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%2FML%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<h4>🤖 AI / ML PORTFOLIO DASHBOARD</h4>
+<h1>SWAGATI PACHARE</h1>
+<sub>Python Developer • AI/ML • Data Analytics</sub>
 
-<img src="./assets/ai-dashboard.svg" alt="Swagati Pachare AI ML portfolio dashboard"/>
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%"><sub>PRIMARY FOCUS</sub><br/><b>Artificial Intelligence</b><br/><sub>Machine Learning • GenAI</sub></td>
+<td align="center" width="25%"><sub>CORE LANGUAGE</sub><br/><b>Python</b><br/><sub>Pandas • NumPy • Scikit-learn</sub></td>
+<td align="center" width="25%"><sub>BUILDING WITH</sub><br/><b>Computer Vision</b><br/><sub>YOLO • OpenCV • Deep Learning</sub></td>
+<td align="center" width="25%"><sub>DEPLOYMENT</sub><br/><b>Streamlit</b><br/><sub>Interactive ML Apps</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7c5cff?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-f472b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square"/>
+
+<br/><br/>
+
+<sub>BUILD • LEARN • DEPLOY 🟢</sub>
 
 <br/>
 
@@ -26,7 +50,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c5cff,50:22d3ee,100:f472b6&height=4&section=header" width="100%"/>
+---
 
 ## ⚡ About me
 
@@ -84,7 +108,7 @@ I'm an **AI/ML and Data enthusiast** focused on building practical, data-driven 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:7c5cff,100:f472b6&height=3&section=header" width="100%"/>
+---
 
 ## 🚀 Featured work
 
@@ -139,30 +163,28 @@ End-to-end predictive modeling — preprocessing, EDA, training, evaluation, and
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:7c5cff,100:22d3ee&height=3&section=header" width="100%"/>
+---
 
 ## 📊 GitHub analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatipachare&theme=tokyonight" alt="Profile details" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swagatipachare&theme=tokyonight" alt="Repos per language" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatipachare&theme=tokyonight" alt="Most used languages" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swagatipachare&theme=tokyonight" alt="GitHub stats" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatipachare&bg_color=0d1117&color=a78bfa&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="98%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=swagatipachare&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatipachare&theme=tokyonight" alt="Profile details" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swagatipachare&theme=tokyonight" alt="Repos per language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatipachare&theme=tokyonight" alt="Most used languages" width="32%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/swagatipachare?style=for-the-badge&logo=github&color=7c5cff&labelColor=181717" alt="Followers"/>
-<img src="https://img.shields.io/github/last-commit/swagatipachare/swagatipachare?style=for-the-badge&color=22d3ee&labelColor=181717" alt="Last commit"/>
+<img src="https://streak-stats.demolab.com?user=swagatipachare&theme=tokyonight&hide_border=true&card_width=420" alt="Streak stats" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatipachare&bg_color=0d1117&color=a78bfa&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true&height=220&custom_title=Contribution%20Activity" alt="Contribution graph" width="85%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/swagatipachare?style=flat-square&logo=github&color=7c5cff&labelColor=181717" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/swagatipachare/swagatipachare?style=flat-square&color=22d3ee&labelColor=181717" alt="Last commit"/>
 
 </div>
 
@@ -226,6 +248,5 @@ I enjoy solving real-world problems, learning new technologies, and turning idea
 
 **Build • Learn • Deploy • Repeat 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:22d3ee,100:7c5cff&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
