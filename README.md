@@ -1,32 +1,6 @@
 <div align="center">
 
-<h4>🤖 AI / ML PORTFOLIO DASHBOARD</h4>
-<h1>SWAGATI PACHARE</h1>
-<sub>Python Developer • AI/ML • Data Analytics</sub>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%"><sub>PRIMARY FOCUS</sub><br/><b>Artificial Intelligence</b><br/><sub>Machine Learning • GenAI</sub></td>
-<td align="center" width="25%"><sub>CORE LANGUAGE</sub><br/><b>Python</b><br/><sub>Pandas • NumPy • Scikit-learn</sub></td>
-<td align="center" width="25%"><sub>BUILDING WITH</sub><br/><b>Computer Vision</b><br/><sub>YOLO • OpenCV • Deep Learning</sub></td>
-<td align="center" width="25%"><sub>DEPLOYMENT</sub><br/><b>Streamlit</b><br/><sub>Interactive ML Apps</sub></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7c5cff?style=flat-square"/>
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-f472b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square"/>
-
-<br/><br/>
-
-<sub>BUILD • LEARN • DEPLOY 🟢</sub>
+<img src="./assets/banner.svg" width="100%" alt="Swagati Pachare - AI/ML portfolio dashboard"/>
 
 <br/>
 
